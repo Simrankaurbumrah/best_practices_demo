@@ -7,7 +7,7 @@ pipeline {
 
     // ==============================================
     // Environment Constants
-    // Used for consistent paths, cache dirs, reports, etc.
+    // Used for consistent paths, cache dirs, reports, etc..
     // Best practice: avoids hardcoding paths in multiple places
     // ==============================================
     environment {
